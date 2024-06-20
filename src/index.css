@@ -1,0 +1,20 @@
+.textAlignCenter{
+  text-align: center;
+  margin-top: 5%;
+}
+
+.signIn-wapper{
+  width: 30%;
+  margin: auto;
+  padding: 5%;
+}
+@media only screen and (max-width: 900px) {
+  signIn-wapper{
+    width: 100%;
+  
+  }
+}
+
+.me-auto{
+  font-weight: bolder;
+}
