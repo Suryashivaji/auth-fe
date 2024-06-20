@@ -2,7 +2,7 @@ import axios from "axios"
 
 
 const AxiosService = axios.create({
-  baseURL:"http://localhost:8000"
+  baseURL:"https://auth-be-138u.onrender.com"
 })
 
 
