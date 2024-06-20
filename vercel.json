@@ -1,1 +1,1 @@
-{"REWRITES":[{"SORCE":"/(.*)","DESTINATION":"/"}]}
+{"rewrites":[{"source":"/(.*)","destination":"/"}]}
